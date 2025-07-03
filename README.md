@@ -19,8 +19,8 @@ This project compares two text files and checks how similar they are using the *
 
 # How to Run
 1. Make sure both files are in the same folder as the `.cpp` file.
-2. Compile the code:
-3. Run the program:
+2. Compile the code
+3. Run the program
 4. Enter file names when asked (e.g., `file1.txt` and `file2.txt`).
 
 # Example Output
